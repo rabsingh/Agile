@@ -7,9 +7,8 @@ assignees: ''
 
 ---
 
-This is a Test User Story . 
-#I am testing the heading
-##A second level
+# User Story 
+As a <role> I can <capability> so that <received benefits> .
 
 ## Acceptance Criteria
 - 
