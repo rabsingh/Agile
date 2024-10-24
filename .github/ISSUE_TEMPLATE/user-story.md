@@ -17,8 +17,8 @@ This is a Test User Story .
 
 
 ## Tasks
--[] 
--[]
+-[] task 1
+-[] task 2
 
 
 
