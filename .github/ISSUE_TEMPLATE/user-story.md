@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # User Story 
-As a <role> I can <capability> so that <received benefits> .
+As a **role** I can **capability** so that **received benefits** .
 
 ## Acceptance Criteria
 - 
